@@ -1,0 +1,5 @@
+"C:\\Users\\Benaddou Idrissi\\Documents\\JCreator LE\\MyProjects\\chatServeur\\connexion.java"
+"C:\\Users\\Benaddou Idrissi\\Documents\\JCreator LE\\MyProjects\\chatServeur\\fenChat.java"
+"C:\\Users\\Benaddou Idrissi\\Documents\\JCreator LE\\MyProjects\\chatServeur\\fenInfo.java"
+"C:\\Users\\Benaddou Idrissi\\Documents\\JCreator LE\\MyProjects\\chatServeur\\main.java"
+"C:\\Users\\Benaddou Idrissi\\Documents\\JCreator LE\\MyProjects\\chatServeur\\reception.java"
